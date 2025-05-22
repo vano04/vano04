@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![ENS](https://img.shields.io/badge/ENS-vanos.eth-blue?logo=ethereum)
 <!--
 **vano04/vano04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
