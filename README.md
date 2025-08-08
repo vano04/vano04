@@ -1,5 +1,3 @@
-# Ivan Belenko
-
 **Dual Major** - Mathematics & Computer Science, University of Washington - Bothell  
 Focused on **Deep Learning**, **AI Research**, and the **Mathematics of Machine Learning**  
 Proficient in **Python**, **C++**, and Unix/Linux Environments
